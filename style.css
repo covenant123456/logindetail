@@ -97,5 +97,10 @@ a:hover {
 	background-color: #094fc4;
 	color: #fff;
 }
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
 
 /*regular style ends*/
